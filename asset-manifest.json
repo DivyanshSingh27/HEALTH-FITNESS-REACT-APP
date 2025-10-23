@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.14141236.css",
+    "main.js": "/static/js/main.32aaa74d.js",
+    "static/media/remixicon.svg?t=1590207869815": "/static/media/remixicon.9cedd2150922ead84869.svg",
+    "static/media/trainer.png": "/static/media/trainer.d5ac997315b633881155.png",
+    "static/media/remixicon.eot?t=1590207869815": "/static/media/remixicon.5cb99e6cba5a4619063f.eot",
+    "static/media/remixicon.ttf?t=1590207869815": "/static/media/remixicon.f2616f597cf98f38d234.ttf",
+    "static/media/remixicon.woff?t=1590207869815": "/static/media/remixicon.8d09fa11700ed63cf96e.woff",
+    "static/media/model1-removebg-preview.png": "/static/media/model1-removebg-preview.c9a0e65b5a2800d74b04.png",
+    "static/media/remixicon.woff2?t=1590207869815": "/static/media/remixicon.90668f6f9b3c2c18a090.woff2",
+    "static/media/yoga-pose.png": "/static/media/yoga-pose.1009817918cc6df26064.png",
+    "static/media/Health___Fitness.png": "/static/media/Health___Fitness.aac1ef4e7c08d21d47b5.png",
+    "static/media/extended.png": "/static/media/extended.65fee2ef368e447527a7.png",
+    "static/media/lunges.png": "/static/media/lunges.52e48615ce527a095bcf.png",
+    "index.html": "/index.html",
+    "main.14141236.css.map": "/static/css/main.14141236.css.map",
+    "main.32aaa74d.js.map": "/static/js/main.32aaa74d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.14141236.css",
+    "static/js/main.32aaa74d.js"
+  ]
+}
