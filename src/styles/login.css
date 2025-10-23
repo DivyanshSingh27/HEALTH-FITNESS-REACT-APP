@@ -1,0 +1,37 @@
+
+.auth-page{
+	min-height: 70vh;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	padding: 2rem;
+}
+.auth-form{
+	width: 360px;
+	background: #fff;
+	border-radius: 8px;
+	box-shadow: 0 8px 24px rgba(0,0,0,0.08);
+	padding: 24px;
+	display: flex;
+	flex-direction: column;
+	gap: 12px;
+}
+.auth-form h2{ margin: 0 0 8px 0; }
+.auth-form label{ display:block; font-size:14px; color:#333; }
+.auth-form input{ width:100%; padding:10px 12px; margin-top:6px; border:1px solid #ddd; border-radius:6px; font-size:14px }
+.primary{ background:#2f7bff; color:white; padding:10px 12px; border:0; border-radius:6px; cursor:pointer; font-weight:600 }
+.auth-footer{ font-size:13px; color:#666; text-align:center; }
+
+
+.password-wrapper{ position:relative; display:flex; align-items:center }
+.password-wrapper input{ padding-right:44px }
+.eye-btn{ position:absolute; right:6px; height:32px; width:36px; border-radius:6px; border:0; background:transparent; display:flex; align-items:center; justify-content:center; cursor:pointer }
+.eye{ display:block; width:18px; height:12px; border-radius:12px; background: linear-gradient(#333,#111); position:relative; transition:transform .18s ease }
+.eye::after{ content:''; position:absolute; left:50%; top:50%; transform:translate(-50%,-50%); width:8px; height:8px; background:#fff; border-radius:50%; transition:opacity .18s }
+
+
+.eye-btn.open .eye{ transform: scale(1.05) }
+.eye-btn.open .eye::after{ opacity:0.9 }
+
+
+.eye-btn:active .eye{ transform: scaleY(.2) }
