@@ -2,7 +2,6 @@
   "name": "gym-website",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://DivyanshSingh27.github.io/HealthandFitness",
   "dependencies": {
     "@auth0/auth0-react": "^2.1.0",
     "@chakra-ui/react": "^2.6.1",
